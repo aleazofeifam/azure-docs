@@ -33,7 +33,7 @@ Some products that include SharePoint and OneDrive, such as Office 365, do not s
 
 1. Create a user context in the unmanaged tenant through signing up for Power BI. For convenience of example, these steps assume that path.
 
-2. Open the [Power BI site](https://powerbi.com) and select **Start Free**. Enter a user account that uses the domain name for the organization; for example, `admin@fourthcoffee.xyz`. After you enter in the verification code, check your email for the confirmation code.
+2. Open the [Power BI site](https://signup.microsoft.com/signup?sku=a403ebcc-fae0-4ca2-8c8c-7a907fd6c235) and select **Start Free**. Enter a user account that uses the domain name for the organization; for example, `admin@fourthcoffee.xyz`. After you enter in the verification code, check your email for the confirmation code.
 
 3. In the confirmation email from Power BI, select **Yes, that's me**.
 
