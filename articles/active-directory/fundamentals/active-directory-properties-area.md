@@ -31,10 +31,6 @@ You add your organization's privacy information in the **Properties** area of Az
 
 2.    On the left navbar, select **Azure Active Directory**, and then select **Properties**.
 
-    The **Properties** area appears.
-
-    ![Azure AD Properties area highlighting the privacy info area](media/active-directory-properties-area/properties-area.png)
-
 3.    Add your privacy info for your employees:
 
     - **Technical contact.** Type the email address for the person to contact for technical support within your organization.
