@@ -41,6 +41,8 @@ Other applications' common endpoints might not support Google users. Google gues
   * `https://myapps.microsoft.com/?tenantid=<your tenant id>`
   * `https://portal.azure.com/<your tenant id>`
   * `https://myapps.microsoft.com/<your verified domain>.onmicrosoft.com`
+  * `https://myaccess.microsoft.com/<your verified domain>/access-packages/<Access Package ID>`
+  
 
    If Google guest users try to use a link such as `https://myapps.microsoft.com` or `https://portal.azure.com`, they'll get an error.
 
